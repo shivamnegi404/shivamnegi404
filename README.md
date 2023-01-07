@@ -1,16 +1,11 @@
 Hi 👋 I'm a Data & Engineering Consultant
 =====================================
 
-I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
-------------------------------------
-![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
-
-* 🌍  Notes on Artificial Intelligence [Himanshu Ramchandani](https://www.himanshuramchandani.co/)
-* ✉️  You can contact me at [connect@himanshuramchandani.co](mailto:connect@himanshuramchandani.co)
+* ✉️  You can contact me at [shivamnegi404@gmail.com](mailto:shivamnegi404@gmail.com)
 
 
-<a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hemansnation?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/shvmngi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/shvmngi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Socials
